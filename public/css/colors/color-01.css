@@ -1,0 +1,133 @@
+/**
+*****************************************
+@File: Cherio Theme Colors
+
+* This file contains the colors for the actual theme, this
+is the file you need to edit to change the color of the
+theme.
+*****************************************
+**/
+.primary-color {
+    color: #3c538b;
+}
+.secondary-color {
+    color: #00afe9;
+}
+.primaary-bg {
+    background: #3c538b;
+}
+.secondary-bg {
+    background: #00afe9;
+}
+.primary-overlay {
+    background: rgba(60, 83, 139, 0.9);
+}
+.secondary-overlay {
+    background: rgba(0, 175, 233, 0.9);
+}
+a {
+    color: #00afe9;
+}
+a:hover,a:active {
+    color: #3c538b;
+}
+.btn-theme-primary {
+    background: #00afe9;
+    border-bottom: 3px solid #3c538b;
+}
+#mainmenu > ul > li.has-sub > a:after {
+    background: #3c538b;
+}
+#mainmenu > ul > li.has-sub > a:before {
+    background: #3c538b;
+}
+#mainmenu.small-screen #menu-button {
+    color: #3c538b;
+}
+#mainmenu.small-screen .submenu-button {
+    background: #3c538b;
+}
+#mainmenu.small-screen #menu-button:after {
+    border-color: #00afe9}
+#mainmenu.small-screen #menu-button:before {
+    background: #00afe9;
+}
+#mainmenu.small-screen #menu-button.menu-opened:after {
+    background: #00afe9;
+}
+#mainmenu.small-screen #menu-button.menu-opened:before {
+    background: #00afe9;
+}
+#mainmenu.small-screen .submenu-button.submenu-opened {
+    background: #00afe9;
+}
+#mainmenu ul ul li:hover > a,#mainmenu ul ul li a:hover {
+    background: #00afe9;
+}
+.top-social ul li >a:hover {
+    background: #00afe9;
+}
+.mid-header .contact-item .icon {
+    border: 2px solid #3c538b;
+    color: #00afe9;
+}
+.search-container .btn-search {
+    background: #3c538b;
+}
+.top-footer .newsletter .form-control:focus {
+    border-color: #00afe9;
+}
+.top-footer .newsletter .btn-newsletter {
+    background: #00afe9;
+    border-color: #00afe9;
+}
+.main-title .seperator,
+.main-footer .footer-seperator {
+    background: #3c538b;
+}
+.main-title .seperator:after,
+.main-footer .footer-seperator:after {
+    background: #00afe9;
+}
+.main-footer .footer-social ul li a:hover {
+    background: #00afe9;
+}
+.main-footer .footer-links li a:hover {
+    color: #00afe9;
+}
+.testimonials-container {
+    border-top: 5px solid #00afe9;
+}
+.testimonials-container figcaption:before {
+    color: #3c538b;
+}
+.portfolio-home-item i {
+    background-color: #3c538b;
+}
+.service-menu .active2 {
+    border-right: 4px solid #3c538b;
+}
+.btn-download {
+    border: 2px solid #00afe9;
+}
+section.mission .vision-content-holder {
+    background: #00afe9;
+}
+section.counter .counter-item .conter-icon {
+    border-color: #00afe9;
+}
+section.team .team-member figcaption ul li a {
+    background: #00afe9;
+}
+.search-holder .search-icon a {
+    background: #00afe9;
+}
+section.counter .counter-item .conter-icon {
+    color: #3c538b;
+}
+.sk-folding-cube .sk-cube:before {
+    background: #3c538b;
+}
+section.team .team-member figure:hover figcaption {
+    background: rgba(60, 83, 139, 0.9);
+}
